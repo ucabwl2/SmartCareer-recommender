@@ -1,0 +1,1 @@
+Data_path = "/home/azureuser/SmartCareer/data/"

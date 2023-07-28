@@ -1,0 +1,5 @@
+Flask==2.2.2
+SQLAlchemy==1.4.45
+Flask-Login==0.6.2
+transformers==4.24.0
+paddlepaddle==2.4.0
